@@ -1,0 +1,30 @@
+# Secrets
+.env
+
+# Data files (too large for git — use DuckDB/Parquet/external storage)
+**/*.csv
+**/*.parquet
+**/*.pkl
+**/*.h5
+**/*.hdf5
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+*.iml
