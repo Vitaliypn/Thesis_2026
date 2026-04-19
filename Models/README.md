@@ -15,10 +15,8 @@ Models/
 │   └── data_for_experiments.csv
 │
 ├── Modeling/                    — baseline models
-│   ├── first_model_weekly.ipynb         — first end-to-end weekly model
 │   ├── different_model_comparison.ipynb — RF / XGBoost / LightGBM / GBM comparison
 │   └── Other/
-│       ├── model_comparison_results.csv — full metrics table
 │       └── model_comparison_top30.txt   — top-30 features by importance
 │
 ├── Experiments/                 — feature and strategy experiments
