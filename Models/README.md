@@ -3,6 +3,8 @@
 Machine learning experiments for crypto asset ranking.
 All notebooks predict which coins will outperform the cohort over the next 7–30 days.
 
+For access to dataset pls text me on telegram @pal1ychuk
+
 ---
 
 ## Structure
